@@ -517,6 +517,14 @@ footer {
     {
       margin-bottom:30px
     }
+    .site-footer
+    {
+       font-size: 15px;
+    }
+    .site-footer h6
+    {
+       font-size: 19px;
+    }
   }
   @media (max-width:767px)
   {
