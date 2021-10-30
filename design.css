@@ -525,34 +525,7 @@ footer {
     {
        font-size: 19px;
     }
-    .site-footer .social-icons a
-    {
-       width:20px;
-       height:20px;
-       line-height:20px;
-    }
-    .fa-facebook:before
-  {
-      font-size: 20px;
-
-  }
-  .fa-instagram:before
-  {
-      font-size: 20px;
-
-  }
-  .fa-github:before
-  {
-      font-size: 20px;
-
-  }
-
-    .fa-linkedin:before
-  {
-      font-size: 20px;
-
-  }
-  
+   
   
   }
   @media (max-width:767px)
