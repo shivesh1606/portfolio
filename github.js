@@ -41,7 +41,7 @@ var settings = {
     "method": "GET",
     "timeout": 0,
     "headers": {
-        "Authorization": "token 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",
+        "Authorization": "token ",
         "Cookie": "logged_in=no"
     },
 };
@@ -127,7 +127,7 @@ function displayRepos(repos) {
 
         // Fetch and display languages with icons asynchronously
         const myHeaders = new Headers();
-        myHeaders.append("Authorization", "token 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");
+        myHeaders.append("Authorization", "token ");
         myHeaders.append("Cookie", "logged_in=no");
 
         const requestOptions = {
